@@ -9,6 +9,5 @@ However, this could be due to a couple of reasons.
     in separate csvs. Someone could use those CSVs to compare against the numbers obtained using a neural network model to the numbers
     in traditional machine learning.
 <br/>
-2 - The amount of data is not very high. roughly around 1600 samples. As there is less data, so the traditional machine learning could  
-    genuinely be the better option among the two.
+2 - The amount of data is not very high. roughly around 1600 samples. As there is less data, so the traditional machine learning could genuinely be the better option among the two.
     
